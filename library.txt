@@ -1,0 +1,11 @@
+librosa
+keras
+seaborn
+matplotlib
+numpy
+pandas
+scikit-learn
+pygame
+pyaudio
+noisereduce
+thread6
